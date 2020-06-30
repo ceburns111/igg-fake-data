@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "wislistitems": [
+    { "id": 1, "make": "Elektron", "model": "Octatrack", "maxPrice": 1100 },
+    { "id": 2, "make": "Moog", "model": "Grandmother", "maxPrice": 850 },
+    { "id": 3, "make": "Korg", "model": "Minilogue", "maxPrice": 300 }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "listings": [
+    { "id": 1, "make": "Elektron", "model": "Octatrack", "price": 975 },
+    { "id": 2, "make": "Elektron", "model": "Octatrack", "price": 1050 },
+    { "id": 3, "make": "Korg", "model": "Minilogue", "price": 300 }
+  ]
 }
