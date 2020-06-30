@@ -9,11 +9,4 @@
     { "id": 2, "make": "Elektron", "model": "Octatrack", "price": 1299, "url": "https://reverb.com/item/18354552-elektron-octatrack-mkii-dps-1-digital-performance-sampler-mint-armens" },
     { "id": 3, "make": "Moog", "model": "Grandmother", "price": 799, "url": "https://reverb.com/item/34355626-moog-grandmother-32-key-semi-modular-analog-synthesizer" },
   ],
-  "profile": {
-    "name": "Bhlake Skinnard",
-    "email": "SnakeSkinB@Hotmail.com",
-    "city": "Philadelphia",
-    "state": "PA",
-    "zip": "20874"
-  }
 }
